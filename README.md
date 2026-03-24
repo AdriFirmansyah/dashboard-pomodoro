@@ -1,26 +1,26 @@
-# Dashboard Pomodoro UI - Mini Project
+# Pomodoro Dashboard UI - Mini Project
 
 ![Status](https://img.shields.io/badge/Status-Development-yellow)
 ![Tech](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JS-blue)
 
-Ini adalah proyek pengembangan **Dashboard UI** yang dibangun sebagai bagian dari portofolio **Adri Firmansyah**. Fokus utama proyek ini adalah menciptakan tampilan antarmuka yang bersih, responsif, dan fungsional menggunakan teknologi Front-End dasar.
+This is a **Dashboard UI** development project built as part of **Adri Firmansyah's** portfolio. The primary focus of this project is to create a clean, responsive, and functional interface using core Front-End technologies.
 
-## 🚀 Fitur Utama
-* **Responsive Design:** Tampilan optimal di berbagai perangkat (Desktop & Mobile).
-* **Modern UI:** Menggunakan prinsip desain bersih dan minimalis.
-* **Navigation:** Menu dashboard yang interaktif.
+## 🚀 Key Features
+* **Responsive Design:** Optimized display across various devices (Desktop & Mobile).
+* **Modern UI:** Built with clean and minimalist design principles.
+* **Navigation:** Interactive dashboard menu.
 
-## 🛠️ Teknologi yang Digunakan
-* **HTML5:** Struktur konten web.
-* **CSS3:** Styling dan layout (Flexbox/Grid).
-* **JavaScript:** Interaktivitas dasar.
-* **Gemini Pro:** Asisten logika coding.
+## 🛠️ Technologies Used
+* **HTML5:** Web content structure.
+* **CSS3:** Styling and layout (Flexbox/Grid).
+* **JavaScript:** Basic interactivity.
+* **Gemini Pro:** Coding logic assistant.
 
-## 📂 Struktur Folder
-* `/css` : Berisi file styling utama.
-* `/js`  : Berisi file logika JavaScript.
-* `index.html` : Halaman utama proyek.
+## 📂 Folder Structure
+* `/css` : Contains main styling files.
+* `/js`  : Contains JavaScript logic files.
+* `index.html` : Main project page.
 
 ---
- dikembangkan oleh **Adri Firmansyah** 
+Developed by **Adri Firmansyah**
 
