@@ -1,4 +1,4 @@
-# Digytac Dashboard UI - Mini Project
+# Dashboard Pomodoro UI - Mini Project
 
 ![Status](https://img.shields.io/badge/Status-Development-yellow)
 ![Tech](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JS-blue)
